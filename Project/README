@@ -1,5 +1,7 @@
 project.ipynb is the jupyter notebook containing the code for our experimentation
+project.html is the html version of the project jupyter notebook
 "Final Report".ipynb is the jupyter notebook with the actual final report
 fetal_health.csv is the csv file containing all the data for fetus health
-Inside "src" directory is the python script adopted from hw2 for the cross validation function.
+Inside "src" directory is the python script adopted from hw2 for the cross validation function. 
+Inside the "src" directory, there is also a subdirectory which contains pictures of the graph used in the final report notebook
 requirement.txt contains the modules we used for the project, pip was freezed into the file.
