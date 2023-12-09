@@ -5,3 +5,5 @@ fetal_health.csv is the csv file containing all the data for fetus health
 Inside "src" directory is the python script adopted from hw2 for the cross validation function. 
 Inside the "src" directory, there is also a subdirectory which contains pictures of the graph used in the final report notebook
 requirement.txt contains the modules we used for the project, pip was freezed into the file.
+
+TO RUN THE CODE: Ensure all necessary libraries are installed (you can use pip install -r requirements.txt) and that the csv file is in the same path as the project.ipynb.
